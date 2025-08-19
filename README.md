@@ -1,8 +1,8 @@
 # Spring Boot Student Profile & Task Management API
 
 ## Author
-**Name:** Mohammed Azam Ali
-**Roll No:** 160923733040
+**Name:** Syed Ziyaan MUbasshir Ahmed
+**Roll No:** 160923733024
 
 ---
 
